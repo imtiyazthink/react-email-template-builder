@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/imtiyazthink/react-email-template-builder/static/js/main.ff293201.js",
+    "main.js": "/imtiyazthink/react-email-template-builder/static/js/main.10d79aef.js",
     "index.html": "/imtiyazthink/react-email-template-builder/index.html",
-    "main.ff293201.js.map": "/imtiyazthink/react-email-template-builder/static/js/main.ff293201.js.map"
+    "main.10d79aef.js.map": "/imtiyazthink/react-email-template-builder/static/js/main.10d79aef.js.map"
   },
   "entrypoints": [
-    "static/js/main.ff293201.js"
+    "static/js/main.10d79aef.js"
   ]
 }
